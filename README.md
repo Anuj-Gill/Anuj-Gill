@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Prometheus & Grafana**
 - 💻 Passionate about full-stack development and building scalable applications
 - 📫 Reach me at: **gillanuj1208@gmail.com**
 
