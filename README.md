@@ -7,7 +7,7 @@
 
 ## About Me
 
-- Ex-Product Engineering at **SuperKalam (YC '23)**
+- SDE Intern @smallcase | Ex-Product Engineering Intern at **SuperKalam (YC '23)**
 - Currently exploring **Kafka**, **system design**, and **distributed systems**  
 
 ---
