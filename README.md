@@ -1,13 +1,12 @@
 <div align="center">
   <h1>👋 Hi, I'm Anuj Gill</h1>
-  <h3>Software Developer • B.Tech Student</h3>
 </div>
 
 ---
 
 ## About Me
 
-- SDE Intern @smallcase | Ex-Product Engineering Intern at **SuperKalam (YC '23)**
+- Engineering @smallcase | Ex-Product Engineering Intern at **SuperKalam (YC '23)**
 
 ---
 
